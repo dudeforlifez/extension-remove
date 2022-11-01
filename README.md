@@ -1,3 +1,5 @@
+#REMEMBER TO SUBSCRIBE TO MY YOUTUBE CHANNEL: Dude for Lifez or https://www.youtube.com/channel/UCFpca2hIjtK-fI5vj9MqGnQ
+
 # extension-remove
 # This is where you are going to be able to remove any extension on google chrome on school/work/personal computer.
 # This is still being worked on!
